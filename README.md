@@ -28,9 +28,9 @@ $ init <project name>
 
 ## FAQ
 **Q:** Github asks me for my credential when pushing to master.<br>
-**A:**Link your device to Github with [SSH](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).<br>
+**A:** Link your device to Github with [SSH](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).<br>
 **Q:** I messed up defining project parent path and Github credentials.<br>
-**A:**You can edit parent_path.py and github_cred.py directly.
+**A:** You can edit parent_path.py and github_cred.py directly.
 
 ## Custom Modules
 The following modules can be enabled or disabled by commenting in init.sh.
