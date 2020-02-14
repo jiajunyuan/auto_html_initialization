@@ -40,5 +40,5 @@ The following modules can be enabled or disabled by commenting in init.sh.
 ## Progress
 For current progress and future planned features, visit https://trello.com/b/4twf7Rh3/auto-html-initialization.
 
-## Achnoledgements
+## Acknoledgements
 Special thanks to Kalle Hallden for the idea and base code.
