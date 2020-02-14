@@ -7,7 +7,7 @@ For quick and easy html project initialization. Combine with [Emmet](https://cod
 1. Install Python.
 2. Install requirements.
 ```
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 3. Add this line to ~/.bashrc to add custom functions to terminal.
 ```
@@ -27,9 +27,9 @@ $ init <project name>
 ```
 
 ## FAQ
-* Github asks me for my credential when pushing to master.
+* Github asks me for my credential when pushing to master.<br>
 Link your device to Github with [SSH](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).
-* I messed up defining project parent path and Github credentials.
+* I messed up defining project parent path and Github credentials.<br>
 You can edit parent_path.py and github_cred.py directly.
 
 ## Custom Modules
