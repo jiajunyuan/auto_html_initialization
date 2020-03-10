@@ -19,7 +19,7 @@ $ def_parent_path <projects parent directory>
 ```
 5. Set Github credentials.
 ```
-$ def_github_credentials <username> <password>
+$ def_github_cred <username> <password>
 ```
 6. Initialize project.
 ```
